@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Cyclistic Case Study (R, SQL)
-<img src="visualizations/cyclistic-rides-by-hour.png?raw=true" width="450"/><img src="visualizations/cyclistic-rides-by-month.png?raw=true" width="400"/>
+<img src="visualizations/cyclistic-rides-by-hour.png?raw=true" width="350"/><img src="visualizations/cyclistic-rides-by-month.png?raw=true" width="350"/>
 <br>Tools Used: R (ggplot2), SQL (BigQuery)
 
 Capstone project of the Google Data Analytics Certificate. "Cyclistic" wants to better understand how Casual Users and Members use their bikes differently. Using data from a real bike sharing service in Chicago, this project collects, transforms and visualizes that information and makes recommendations.
