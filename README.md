@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Cyclistic Case Study (R, SQL)
-<img src="visualizations/cyclistic-rides-by-hour.png?raw=true" width="450"/><img src="visualizations/cyclistic-rides-by-month.png?raw=true" width="450"/>
+<img src="visualizations/cyclistic-rides-by-hour.png?raw=true" width="450"/><img src="visualizations/cyclistic-rides-by-month.png?raw=true" width="400"/>
 <br>Tools Used: R (ggplot2), SQL (BigQuery)
 
 Capstone project of the Google Data Analytics Certificate. "Cyclistic" wants to better understand how Casual Users and Members use their bikes differently. Using data from a real bike sharing service in Chicago, this project collects, transforms and visualizes that information and makes recommendations.
@@ -16,7 +16,7 @@ https://www.kaggle.com/code/davidkatilius/google-analytics-cert-cyclistic-case-s
 
 
 ## COVID-19 Dashboard (SQL, Tableau)
-<img src="visualizations/covid-19-dashboard-until-jan-2022.png?raw=true" width="900"/>
+<img src="visualizations/covid-19-dashboard-until-jan-2022.png?raw=true" width="800"/>
 <br>Tools Used: SQL (BigQuery), Tableau
 Final Product: https://tabsoft.co/3NIbBQ7
 
